@@ -1,6 +1,8 @@
 # CampusGraph
 
 CampusGraph is an intelligent campus navigation and network optimization system designed to demonstrate classical graph algorithms in a professional product-style interface.
+Link : http://localhost:5173/mst
+
 
 ## Features
 - Campus route optimization and shortest path visualization
@@ -49,3 +51,5 @@ Add project screenshots here after running the app locally.
 - Add drag-and-drop node editing
 - Expand the graph editor for custom campus layouts
 - Add persistence and export feature for graph states
+
+
