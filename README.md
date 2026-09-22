@@ -1,8 +1,7 @@
 # CampusGraph
 
 CampusGraph is an intelligent campus navigation and network optimization system designed to demonstrate classical graph algorithms in a professional product-style interface.
-Link : 
-http://localhost:5173/mst
+Link : https://campus-graph.vercel.app/?utm_source=chatgpt.com
 
 ## Features
 - Campus route optimization and shortest path visualization
